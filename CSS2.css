@@ -986,10 +986,16 @@ iframe{
         height: 100%;
     }
 
-    .a1, .a2, .a3{
-        width: 14%;
+    .a1, .a3{
+        width: 12%;
         margin-left:0px;
         line-height: 250%;
+    }
+
+    .a2{
+       width: 15%;
+       margin-left:0px;
+       line-height: 250%; 
     }
 
     .a1{
@@ -997,7 +1003,7 @@ iframe{
     }
 
     a:not(:last-child) {
-        margin-right: 4px;
+        margin-right: 3px;
         }
     
     .logo{
